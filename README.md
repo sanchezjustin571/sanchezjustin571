@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Creating-Virtual-Machines-Virtual-Networks-and-Domain-Controllers]
+  - [Creating-Virtual-Machines-Virtual-Networks-and-Domain-Controllers](https://github.com/sanchezjustin571/Creating-Virtual-Machines-Virtual-Networks-and-Domain-Controllers)
 <h2>Connect with me:</h2>
 
 
