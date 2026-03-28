@@ -1,6 +1,6 @@
 <h1>Hi, I'm Justin, an <a href="https://linkedin.com/in/justin-sanchez36">IT Professional
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
