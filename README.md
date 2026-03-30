@@ -3,8 +3,9 @@
 <h2> Information Technology Projects:</h2>
 
 
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Creating Virtual Machines,Virtual-Networks,and Domain Controllers](https://github.com/sanchezjustin571/Creating-Virtual-Machines-Virtual-Networks-and-Domain-Controllers)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Active Directory, Account Management, Security Policy Enforcement](https://github.com/sanchezjustin571/Active-Directory-DC)
 <h2>Connect with me:</h2>
 
 
