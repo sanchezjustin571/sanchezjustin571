@@ -3,8 +3,8 @@
 <h2> Information Technology Projects:</h2>
 
 
-  - [Creating Virtual Machines,Virtual-Networks,and Domain Controllers](https://github.com/sanchezjustin571/Creating-Virtual-Machines-Virtual-Networks-and-Domain-Controllers)
-  - [Active Directory, Account Management, Security Policy Enforcement](https://github.com/sanchezjustin571/Active-Directory-DC)
+  - [I.T. Professional Portfolio](https://github.com/sanchezjustin571/Creating-Virtual-Machines-Virtual-Networks-and-Domain-Controllers)
+
 <h2>Connect with me:</h2>
 
 
