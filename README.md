@@ -3,7 +3,7 @@
 <h2> Information Technology Projects:</h2>
 
 
-  - [I.T. Professional Portfolio](https://github.com/sanchezjustin571/Creating-Virtual-Machines-Virtual-Networks-and-Domain-Controllers)
+  - [I.T. Professional Portfolio](https://github.com/sanchezjustin571/I.T.-Portfolio)
 
 <h2>Connect with me:</h2>
 
