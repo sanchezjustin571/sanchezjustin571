@@ -1,9 +1,14 @@
-<h1>Hi, I'm Justin, an <a href="https://linkedin.com/in/justin-sanchez36">IT Professional
 
-<h2> Information Technology Projects:</h2>
+---
 
+## About Me
+I am an aspiring IT Help Desk Technician with a background in manufacturing, where I developed strong troubleshooting, process improvement, and problem-solving skills. I am passionate about technology and continuously building hands-on experience to grow into system administration.
 
-  - [I.T. Professional Portfolio](https://github.com/sanchezjustin571/I.T.-Portfolio)
+---
+
+## Contact
+- Email: sanchezjustin571@gmail.com
+- GitHub: https://github.com/sanchezjustin571/I.T.-Portfolio
 
 <h2>Connect with me:</h2>
 
